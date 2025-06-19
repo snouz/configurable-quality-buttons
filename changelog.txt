@@ -1,0 +1,13 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2025-06-
+  Info:
+    - Added description
+    - Changed name to "More quality buttons"
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2025-06-19
+  Info:
+    - Initial release
+    - Makes number of max buttons configurable (startup setting) with a default of 10
+    - Removes the GUI text "Ingredient quality" in all languages to make space in recipe choice GUI
